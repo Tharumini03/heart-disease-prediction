@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+.DS_Store
+train.csv
+test.csv
+sample_submission.csv
